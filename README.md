@@ -11,7 +11,7 @@
 | [Jessica Zhong](https://github.com/acisseJZhong)              | Project Manager           |
 | [Jialu Xu](https://github.com/shayan900)                      | Quality Assurance Lead    |
 | [Dawei Wang](https://github.com/cksriprajittichai)            | Algorithm Specialist      |
-| [Kaixun Zhang](https://github.com/Ethan-Yuan-ZY)              | Database Specialist       |
+| [Kaixun Zhang](https://github.com/Ethan-Yuan-ZY)              | Algorithm Specialist       |
 
 ### Introduction
 As busy students who focus on studying, we always forget to use our food in the fridge and lead to waste, which is very environmentally unfriendly. Sometimes we also forget to do the chores, 
