@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cosmos",
+        "repositoryURL": "https://github.com/evgenyneu/Cosmos.git",
+        "state": {
+          "branch": null,
+          "revision": "9295433932eb3fc3620e620f103de5de1f2e0f23",
+          "version": "22.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
