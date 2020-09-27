@@ -2,15 +2,15 @@
 
 | Contributor                                                   | Role                      |
 | ---                                                           | ---                       |
-| [Yilun Hao]                      | Senior System Analyst     |
-| [Qiao Rong]                    | Business Analyst          |
-| [Jiaming Zhang]              | Software Architect        |
-| [David Cheung]                     | Software Development Lead |
-| [Jiangnan Xu]                      | Database Specialist       |
-| [Duolan Ouyang]()                | User Interface Specialist |
+| Yilun Hao                     | Senior System Analyst     |
+| Qiao Rong                   | Business Analyst          |
+| Jiaming Zhang             | Software Architect        |
+| David Cheung                    | Software Development Lead |
+| Jiangnan Xu                      | Database Specialist       |
+| Duolan Ouyang               | User Interface Specialist |
 | [Jessica Zhong](https://github.com/acisseJZhong)              | Project Manager           |
-| [Jialu Xu]                  | Quality Assurance Lead    |
-| [Dawei Wang]         | Algorithm Specialist      |
+| Jialu Xu                  | Quality Assurance Lead    |
+| Dawei Wang         | Algorithm Specialist      |
 | [Kaixun Zhang](https://github.com/Lucas610)              | Algorithm Specialist       |
 
 ### Introduction
