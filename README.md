@@ -7,7 +7,7 @@
 | [Jiaming Zhang]              | Software Architect        |
 | [David Cheung]                     | Software Development Lead |
 | [Jiangnan Xu]                      | Database Specialist       |
-| [Duolan Ouyang]                | User Interface Specialist |
+| [Duolan Ouyang]()                | User Interface Specialist |
 | [Jessica Zhong](https://github.com/acisseJZhong)              | Project Manager           |
 | [Jialu Xu]                  | Quality Assurance Lead    |
 | [Dawei Wang]         | Algorithm Specialist      |
